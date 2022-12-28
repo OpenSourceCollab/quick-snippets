@@ -3,7 +3,7 @@
   "displayName": "Quick Snippet",
   "description": "Generate snippets quickly and easily.🚀",
   "version": "0.1.2",
-  "publisher": "MubasharJaved",
+  "publisher": "OpenSourceCollab",
   "icon": "assets/images/qs-icon.png",
   "engines": {
     "vscode": "^1.72.0"
@@ -17,15 +17,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mubashar-javed/quick-snippets"
+    "url": "https://github.com/OpenSourceCollab/quick-snippets"
   },
-  "homepage": "https://github.com/Mubashar-javed/quick-snippets",
+  "homepage": "https://github.com/OpenSourceCollab/quick-snippets",
   "author": {
-    "name": "Mubashar Javed",
+    "name": "OpenSourceCollab",
     "email": "mubasharbravo302@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/Mubashar-javed/quick-snippets/issues"
+    "url": "https://github.com/OpenSourceCollab/quick-snippets/issues"
   },
   "categories": [
     "Snippets",
